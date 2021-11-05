@@ -49,3 +49,9 @@ p {
     max-width: 550px;
   }
 }
+
+@media (max-width: 569px) and (min-width: 410px) {
+  img {
+    max-width: 400px;
+  }
+}
